@@ -1,6 +1,6 @@
 # Altium Stackup Library
 Altium Stackup files based on PCBWay specifications
-## Table of the most common stackup
+## Table of the most common 4L stackup
 | Layer | Function  |
 | ------|:---------:
 | TOP   | SIG & GND   |
