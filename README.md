@@ -19,6 +19,7 @@ Altium Stackup files based on PCBWay specifications
 | 1.6 mm        | 0.11 mm (4.33mil)|
 
 ## Stackup images as reference for design calculations
+## The assumed copper weight for outer/inner layers is 1oz and plating thickenss is assumed 35μm
 ### 0.4mm board
 ![0.4mm](https://github.com/alex-z-charalampidis/Altium-PCBWay-Stackups/blob/main/04.PNG?raw=true)
 ### 0.6mm board
